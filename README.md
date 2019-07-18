@@ -6,3 +6,4 @@ Developers Community Meetup - Lucknow 27th July 2019
 - [Milind Singh](http://github.com/milindsingh)
 - [Kumar Eayshwary](http://github.com/Eayshwary)
 - [Meraj Ahamad](https://github.com/merajahamad)
+- [Syed Askari Abbas](https://github.com/syedaskariabbascedcoss)

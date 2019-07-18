@@ -1,5 +1,5 @@
 # Meetup
-27th July Developers Meetup
+Developers Community Meetup - Lucknow 27th July 2019 
 ===========================
 
 ### Add Your Name
